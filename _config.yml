@@ -34,3 +34,5 @@ permalink: /event/:title.html
 port: 8000
 
 
+
+theme: jekyll-theme-cayman
